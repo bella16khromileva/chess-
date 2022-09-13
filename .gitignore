@@ -1,0 +1,10 @@
+logs_chess.log
+HISTORYlistener.log
+.coverage
+.idea
+__pycache__
+.pytest_cache
+.mypy_cache
+/Makefile
+venv
+/.python-version
